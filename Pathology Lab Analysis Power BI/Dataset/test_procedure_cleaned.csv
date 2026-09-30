@@ -1,0 +1,31 @@
+Product_id,test_id,product_name,unit_price,market_value
+1,1,Hemoglobin (Hb) Reagent Kit,379.6,597.61
+2,2,ESR Reagent Kit,1324.44,1710.65
+3,1,Sugar Test Kit,1010.72,1342.27
+4,2,PCV (Hematocrit) Reagent Kit,1378.66,1870.13
+5,2,Fasting Blood Sugar Reagent Kit,456.13,575.17
+6,3,Post Prandial Blood Sugar Reagent Kit,877.14,1112.42
+7,11,Blood Urea Reagent Kit,910.11,1414.33
+8,12,Serum Creatinine Reagent Kit,647.15,808.09
+9,6,Total Cholesterol Reagent Kit,1496.5,2064.1
+10,7,HDL Cholesterol Direct Reagent Kit,209.09,244.89
+11,8,LDL Cholesterol Direct Reagent Kit,235.7,337.61
+12,9,Triglycerides Reagent Kit,1204.75,1614.33
+13,10,Uric Acid Reagent Kit,170.21,224.97
+14,13,Iron (Fe) Reagent Kit,1494.49,2074.5
+15,14,TIBC Reagent Kit,1458.93,2242.89
+16,15,Ferritin ELISA Kit,96.3,141.98
+17,16,T3 ELISA Kit,1048.03,1458.48
+18,17,T4 ELISA Kit,458.89,660.08
+19,18,TSH ELISA Kit,238.4,320.8
+20,24,Calcium Reagent Kit,724.29,1143.81
+21,25,Sodium/Potassium ISE Reagent Kit,1323.71,1679.16
+22,22,Vitamin D ELISA Kit,790.83,973.03
+23,23,Vitamin B12 CLIA Kit,1375.93,2121.32
+24,27,Widal Antigen Kit,503.79,724.21
+25,28,Dengue NS1 Rapid Test Kit,944.74,1151.43
+26,29,HIV ELISA Kit,1162.77,1619.41
+27,30,HBsAg Rapid Test Kit,1185.65,1646.46
+28,26,Urine Analysis Strips,80.81,104.72
+29,20,LFT Panel Reagent Kit,107.66,168.82
+30,21,KFT Panel Reagent Kit,1327.79,2023.88

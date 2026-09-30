@@ -1,0 +1,35 @@
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Data_Warehousing\\Dataset\\source_erp\\CUST_AZ12.csv'
+INTO TABLE bronze_CUST_AZ12
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(@CID, @BDATE, @GEN)
+SET
+    CID = NULLIF(TRIM(@CID), ''),
+    BDATE = NULLIF(TRIM(@BDATE), ''),
+    GEN = NULLIF(TRIM(@GEN), '');
+
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Data_Warehousing\\Dataset\\source_erp\\LOC_A101.csv'
+INTO TABLE bronze_LOC_A101
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(@CID, @CNTRY)
+SET
+    CID = NULLIF(TRIM(@CID), ''),
+    CNTRY = NULLIF(TRIM(@CNTRY), '');
+
+LOAD DATA INFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Data_Warehousing\\Dataset\\source_erp\\PX_CAT_G1V2.csv'
+INTO TABLE bronze_PX_CAT_G1V2
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 ROWS
+(@ID, @CAT, @SUBCAT, @MAINTENANCE)
+SET
+    ID = NULLIF(TRIM(@ID), ''),
+    CAT = NULLIF(TRIM(@CAT), ''),
+    SUBCAT = NULLIF(TRIM(@SUBCAT), ''),
+    MAINTENANCE = NULLIF(TRIM(@MAINTENANCE), '');

@@ -1,0 +1,31 @@
+test_id,test_name,dept_id,normal_range,price
+1,CBC (Complete Blood Count),2,4.0-11.0 x10^9/L,350
+2,Blood Sugar Fasting (FBS),1,70-100 mg/dL,120
+3,Blood Sugar Post Prandial (PPBS),1,70-140 mg/dL,120
+4,Random Blood Sugar (RBS),1,70-140 mg/dL,100
+5,HbA1c,1,4-5.6 %,550
+6,Cholesterol Total,1,125-200 mg/dL,300
+7,HDL Cholesterol,1,40-60 mg/dL,250
+8,LDL Cholesterol,1,<100 mg/dL,250
+9,Triglycerides,1,<150 mg/dL,280
+10,Uric Acid,1,3.5-7.2 mg/dL,200
+11,Blood Urea,1,7-20 mg/dL,180
+12,Serum Creatinine,1,0.6-1.3 mg/dL,200
+13,Iron Studies (Serum Iron),2,60-170 mcg/dL,450
+14,Total Iron Binding Capacity (TIBC),2,240-450 mcg/dL,400
+15,Ferritin,2,12-300 ng/mL,600
+16,Thyroid Profile - T3,5,80-200 ng/dL,350
+17,Thyroid Profile - T4,5,5.1-14.1 mcg/dL,350
+18,Thyroid Stimulating Hormone (TSH),5,0.4-4.0 mIU/L,400
+19,ESR (Erythrocyte Sedimentation Rate),2,0-20 mm/hr,150
+20,Liver Function Test (LFT),1,varies by parameter,700
+21,Kidney Function Test (KFT),1,varies by parameter,700
+22,Vitamin D (25-OH),5,20-50 ng/mL,1200
+23,Vitamin B12,5,200-900 pg/mL,900
+24,Calcium (Serum),1,8.5-10.5 mg/dL,220
+25,Sodium/Potassium (Electrolytes),1,135-145 mmol/L (Na),350
+26,Urine Routine Examination,6,varies,150
+27,Widal Test (Typhoid),3,Titer < 1:80,250
+28,Dengue NS1/IgG/IgM,4,Negative,900
+29,HIV Test (ELISA),4,Non-Reactive,500
+30,Hepatitis B (HBsAg),4,Non-Reactive,450

@@ -1,0 +1,51 @@
+doc_id,doc_name,specialization
+1,Dr. Amit Sharma,Oncologist
+2,Dr. Amit Banerjee,Nephrologist
+3,Dr. Sujata Mukherjee,Endocrinologist
+4,Dr. Sujata Pal,Oncologist
+5,Dr. Ravi Sharma,General Physician
+6,Dr. Ravi Dutta,Gynecologist
+7,Dr. Anjali Verma,Pathologist
+8,Dr. Anjali Roy,General Physician
+9,Dr. Sourav Sen,Internal Medicine
+10,Dr. Sourav Mukherjee,Gynecologist
+11,Dr. Priya Banerjee,Cardiologist
+12,Dr. Priya Dutta,Oncologist
+13,Dr. Debasish Dutta,Cardiologist
+14,Dr. Debasish Verma,Diabetologist
+15,Dr. Nabanita Mishra,Pathologist
+16,Dr. Nabanita Ghosh,Endocrinologist
+17,Dr. Arindam Verma,Nephrologist
+18,Dr. Arindam Iyer,Endocrinologist
+19,Dr. Moumita Sen,General Physician
+20,Dr. Moumita Iyer,General Physician
+21,Dr. Rajesh Reddy,Hematologist
+22,Dr. Rajesh Sharma,Hematologist
+23,Dr. Sneha Pal,Pathologist
+24,Dr. Sneha Ghosh,Oncologist
+25,Dr. Tapan Kapoor,General Physician
+26,Dr. Tapan Dutta,Microbiologist
+27,Dr. Ipsita Chatterjee,Nephrologist
+28,Dr. Ipsita Dutta,Pediatrician
+29,Dr. Sandeep Pal,Gynecologist
+30,Dr. Sandeep Nair,Cardiologist
+31,Dr. Rituparna Chatterjee,Pediatrician
+32,Dr. Rituparna Roy,Cardiologist
+33,Dr. Manoj Bose,Cardiologist
+34,Dr. Manoj Chatterjee,General Physician
+35,Dr. Kaberi Reddy,Diabetologist
+36,Dr. Kaberi Ghosh,Pediatrician
+37,Dr. Subrata Nair,Hematologist
+38,Dr. Subrata Gupta,Hematologist
+39,Dr. Piyali Sen,Oncologist
+40,Dr. Piyali Ghosh,Pediatrician
+41,Dr. Arun Chatterjee,Internal Medicine
+42,Dr. Arun Gupta,Oncologist
+43,Dr. Rina Mukherjee,Diabetologist
+44,Dr. Rina Gupta,Microbiologist
+45,Dr. Bikash Ghosh,Cardiologist
+46,Dr. Bikash Dutta,Pediatrician
+47,Dr. Shreya Iyer,Cardiologist
+48,Dr. Shreya Roy,Pathologist
+49,Dr. Partha Iyer,Nephrologist
+50,Dr. Partha Reddy,General Physician

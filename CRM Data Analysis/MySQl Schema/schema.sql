@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS CRM_Medallion_Architecture;
+USE CRM_Medallion_Architecture;
